@@ -15,4 +15,4 @@ elif operation == "*":
     result = float(num1) * float(num2)
     print(f"{num1} * {num2} = {result}")
 else:
-    print("Invalid operation")
+    print("Check your entries")
